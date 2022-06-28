@@ -1,5 +1,19 @@
 {
   "_cts": {
-    "page": {}
+    "page": {},
+    "homepage": {}
+  },
+  "slices": {
+    "FeaturedWork": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Featured Work": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Sss": {}
   }
 }
