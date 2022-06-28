@@ -1,0 +1,20 @@
+backend:
+  name: git-gateway
+  branch: main
+  repo: 'abruptpause/red-template-nextjs'
+
+site_url: 'https://red-template-2.netlify.app/'
+# publish_mode: editorial_workflow
+media_folder: public/images
+public_folder: /images/uploads
+
+collections:
+  - name: 'images'
+    label: 'Images'
+    label_singular: 'Image'
+    folder: 'images/uploads'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Medium', name: 'medium', widget: 'string' }
+      - { label: 'Size', name: 'size', widget: 'string' }
+      - { label: 'File', name: 'file', widget: 'image', required: true }

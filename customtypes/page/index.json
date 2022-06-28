@@ -1,0 +1,9 @@
+{
+  "id": "page",
+  "label": "Page",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}
