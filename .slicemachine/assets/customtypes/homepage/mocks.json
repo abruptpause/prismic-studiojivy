@@ -1,23 +1,11 @@
 {
-  "id": "beedabfe-4b98-4ed7-8a95-90e0895cbfb3",
-  "uid": "eos-voluptatum-qui",
+  "id": "222971fc-cad6-41d1-86e4-64044ca871d5",
+  "uid": "quasi-earum-fugit",
   "type": "homepage",
   "data": {
-    "Heading": [
-      {
-        "type": "paragraph",
-        "text": "Ipsum reprehenderit anim sunt adipisicing veniam amet adipisicing proident.",
-        "spans": []
-      }
-    ],
-    "Subheading": "scale B2B schemas",
-    "Text": [
-      {
-        "type": "paragraph",
-        "text": "Non sint ipsum deserunt eiusmod non est. Esse irure sunt adipisicing aliqua tempor anim incididunt culpa ex dolor aliquip dolor reprehenderit mollit qui. Esse minim incididunt adipisicing amet sit ex dolore sunt dolor.",
-        "spans": []
-      }
-    ],
+    "Heading": "target efficient architectures",
+    "Subheading": "expedite proactive e-services",
+    "Text": "deploy cross-platform e-markets",
     "Image": {
       "dimensions": {
         "width": 900,
@@ -25,7 +13,8 @@
       },
       "alt": "Placeholder image",
       "copyright": null,
-      "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=900&h=500&fit=crop"
-    }
+      "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=900&h=500&fit=crop"
+    },
+    "FeaturedHeading": "orchestrate frictionless markets"
   }
 }

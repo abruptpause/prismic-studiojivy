@@ -1,7 +1,7 @@
 import React from 'react'
 import { PrismicRichText } from '@prismicio/react'
 
-const FeaturedWork = ({ slice }) => (
+const Featured = ({ slice }) => (
   <section>
     <span className="title">
       {
@@ -28,4 +28,4 @@ const FeaturedWork = ({ slice }) => (
   </section>
 )
 
-export default FeaturedWork
+export default Featured

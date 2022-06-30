@@ -14,6 +14,17 @@
         "primary": {}
       }
     },
-    "Sss": {}
+    "Sss": {},
+    "Featured": {
+      "default": {
+        "items": {}
+      }
+    },
+    "Section": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    }
   }
 }

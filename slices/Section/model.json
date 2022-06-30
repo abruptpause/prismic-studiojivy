@@ -1,26 +1,18 @@
 {
-  "id": "featured_work",
+  "id": "section",
   "type": "SharedSlice",
-  "name": "FeaturedWork",
-  "description": "Featured Work",
+  "name": "Section",
+  "description": "Section",
   "variations": [
     {
       "id": "default",
       "name": "Default",
       "docURL": "...",
       "version": "sktwi1xtmkfgx8626",
-      "description": "Featured Work",
-      "primary": {
-        "title": {
-          "type": "Text",
-          "config": {
-            "label": "Title",
-            "placeholder": ""
-          }
-        }
-      },
+      "description": "Section",
+      "primary": {},
       "items": {
-        "image": {
+        "Image": {
           "type": "Image",
           "config": {
             "label": "Image",
@@ -28,24 +20,52 @@
             "thumbnails": []
           }
         },
-        "name": {
+        "Name": {
           "type": "Text",
           "config": {
             "label": "Name",
             "placeholder": ""
           }
         },
-        "medium": {
+        "Medium": {
           "type": "Text",
           "config": {
             "label": "Medium",
             "placeholder": ""
           }
         },
-        "size": {
+        "Size": {
           "type": "Text",
           "config": {
             "label": "Size",
+            "placeholder": ""
+          }
+        },
+        "Start": {
+          "type": "Number",
+          "config": {
+            "label": "Start",
+            "placeholder": ""
+          }
+        },
+        "End": {
+          "type": "Number",
+          "config": {
+            "label": "End",
+            "placeholder": ""
+          }
+        },
+        "AspectRatioX": {
+          "type": "Number",
+          "config": {
+            "label": "Aspect Ratio X",
+            "placeholder": ""
+          }
+        },
+        "AspectRatioY": {
+          "type": "Number",
+          "config": {
+            "label": "Aspect Ratio Y",
             "placeholder": ""
           }
         }
