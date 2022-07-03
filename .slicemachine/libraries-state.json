@@ -170,28 +170,28 @@
                   "type": "Number",
                   "config": {
                     "label": "Start",
-                    "placeholder": "1"
+                    "min": 1,
+                    "max": 11
                   }
                 },
                 "End": {
                   "type": "Number",
                   "config": {
                     "label": "End",
-                    "placeholder": "12"
+                    "min": 2,
+                    "max": 12
                   }
                 },
                 "AspectRatioX": {
                   "type": "Number",
                   "config": {
-                    "label": "Aspect Ratio X",
-                    "placeholder": "4"
+                    "label": "Aspect Ratio X"
                   }
                 },
                 "AspectRatioY": {
                   "type": "Number",
                   "config": {
-                    "label": "Aspect Ratio Y",
-                    "placeholder": "3"
+                    "label": "Aspect Ratio Y"
                   }
                 }
               },

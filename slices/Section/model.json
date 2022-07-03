@@ -45,28 +45,32 @@
           "type": "Number",
           "config": {
             "label": "Start",
-            "placeholder": "1"
+            "example_number": 1,
+            "min": 1,
+            "max": 11
           }
         },
         "End": {
           "type": "Number",
           "config": {
             "label": "End",
-            "placeholder": "12"
+            "example_number": 12,
+            "min": 2,
+            "max": 12
           }
         },
         "AspectRatioX": {
           "type": "Number",
           "config": {
             "label": "Aspect Ratio X",
-            "placeholder": "4"
+            "example_number": 4
           }
         },
         "AspectRatioY": {
           "type": "Number",
           "config": {
             "label": "Aspect Ratio Y",
-            "placeholder": "3"
+            "example_number": 3
           }
         }
       },
