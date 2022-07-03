@@ -24,49 +24,49 @@
           "type": "Text",
           "config": {
             "label": "Name",
-            "placeholder": ""
+            "placeholder": "Artwork Title"
           }
         },
         "Medium": {
           "type": "Text",
           "config": {
             "label": "Medium",
-            "placeholder": ""
+            "placeholder": "Materials Used"
           }
         },
         "Size": {
           "type": "Text",
           "config": {
             "label": "Size",
-            "placeholder": ""
+            "placeholder": "1234 x 5678 inches"
           }
         },
         "Start": {
           "type": "Number",
           "config": {
             "label": "Start",
-            "placeholder": ""
+            "placeholder": "1"
           }
         },
         "End": {
           "type": "Number",
           "config": {
             "label": "End",
-            "placeholder": ""
+            "placeholder": "12"
           }
         },
         "AspectRatioX": {
           "type": "Number",
           "config": {
             "label": "Aspect Ratio X",
-            "placeholder": ""
+            "placeholder": "4"
           }
         },
         "AspectRatioY": {
           "type": "Number",
           "config": {
             "label": "Aspect Ratio Y",
-            "placeholder": ""
+            "placeholder": "3"
           }
         }
       },

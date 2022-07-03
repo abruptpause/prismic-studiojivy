@@ -23,7 +23,29 @@
     "Section": {
       "default": {
         "primary": {},
-        "items": {}
+        "items": {
+          "Start": {
+            "content": 1
+          },
+          "End": {
+            "content": 12
+          },
+          "AspectRatioX": {
+            "content": 4
+          },
+          "AspectRatioY": {
+            "content": 3
+          },
+          "Size": {
+            "content": "1234 x 5678 inches"
+          },
+          "Name": {
+            "content": "Artwork Title"
+          },
+          "Medium": {
+            "content": "Materials Used"
+          }
+        }
       }
     }
   }
