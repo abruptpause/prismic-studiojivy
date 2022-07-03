@@ -33,6 +33,13 @@
           "constraint": {},
           "thumbnails": []
         }
+      },
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "Uid",
+          "placeholder": ""
+        }
       }
     },
     "Featured": {
